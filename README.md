@@ -7,5 +7,4 @@
 
 <h3 align="center"> 
 Full-Time Open-Sourcerer. Focused on Laravel / JavaScript. Makes web apps & docs. <br>
-Creator of @UnitFed
 </h3>
