@@ -62,11 +62,11 @@ Merci de ne proposer que des liens **légaux, neutres et sûrs**.
 
 ## Donation
 
-Mon travail vous plait ? N'hésitez pas à faire une petite donation. (en crypto biensur !)
-BTC : bc1quk2hpfwmg482l7th563zkzvl53u4v5cwlmp5mp
-ETH : 0x1248765Eb28bdA8bf7966a420849b291607Ff8c2
-LTC : LgzYSr1Kbe47oqpSiT2EH5y6HFgwzBPE9L
-TRX : TQoBR5CjLKPiexQaxjbdqP4nn75csNjuh2
+Mon travail vous plait ? N'hésitez pas à faire une petite donation. (en crypto biensur !) 
+BTC : bc1quk2hpfwmg482l7th563zkzvl53u4v5cwlmp5mp 
+ETH : 0x1248765Eb28bdA8bf7966a420849b291607Ff8c2 
+LTC : LgzYSr1Kbe47oqpSiT2EH5y6HFgwzBPE9L 
+TRX : TQoBR5CjLKPiexQaxjbdqP4nn75csNjuh2 
 
 ---
 
