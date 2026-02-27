@@ -34,11 +34,17 @@ Les liens sont classés par catégories et documentés dans des fichiers Markdow
 
 | Catégorie | Description |
 |-----------|-------------|
-| [Forums](links/forums.md) | Forums neutres sur différents sujets. |
-| [Chats / Ricochets](links/chats.md) | Plateformes pour discuter anonymement. |
-| [Ressources](links/ressources.md) | Guides, articles, projets open source. |
-| [Outils](links/outils.md) | Outils utiles : VPN, sécurité, logiciels open source. |
-
+| [Annexe](https://github.com/mrrhyde/annexe) | Centralisation des liens annexes sur le darknet. |
+| [Blog](https://github.com/mrrhyde/blog) | Centralisation des blogs sur le darknet. |
+| [Email](https://github.com/mrrhyde/email) | Centralisation des fournisseurs d'email sur le darknet. |
+| [Forum](https://github.com/mrrhyde/forum) | Centralisation des forums sur le darknet. |
+| [Hosting](https://github.com/mrrhyde/hosting) | Centralisation des hébergeurs sur le darknet. |
+| [Miscellaneous](https://github.com/mrrhyde/miscellaneous) | Centralisation des liens divers sur le darknet. |
+| [Ricochet](https://github.com/mrrhyde/ricochet) | Centralisation des ID ricochet pour discuté avec la communauté DarkHub. |
+| [SearchEngine](https://github.com/mrrhyde/searchengine) | Centralisation des moteurs de recherche sur le darknet. |
+| [Services](https://github.com/mrrhyde/services) | Centralisation des services sur le darknet. |
+| [Software](https://github.com/mrrhyde/software) | Centralisation des logiciels sur le darknet. |
+| [Website](https://github.com/mrrhyde/website) | Centralisation des sites sur le darknet. |
 ---
 
 ## Contribuer
@@ -51,6 +57,16 @@ C’est simple :
 3. Ouvrez une pull request avec une courte description.
 
 Merci de ne proposer que des liens **légaux, neutres et sûrs**.  
+
+---
+
+## Donation
+
+Mon travail vous plait ? N'hésitez pas à faire une petite donation. (en crypto biensur !)
+BTC : bc1quk2hpfwmg482l7th563zkzvl53u4v5cwlmp5mp
+ETH : 0x1248765Eb28bdA8bf7966a420849b291607Ff8c2
+LTC : LgzYSr1Kbe47oqpSiT2EH5y6HFgwzBPE9L
+TRX : TQoBR5CjLKPiexQaxjbdqP4nn75csNjuh2
 
 ---
 
