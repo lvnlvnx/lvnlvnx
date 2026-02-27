@@ -62,4 +62,4 @@ Ce projet est open source sous licence [MIT](LICENSE).
 
 Merci de votre visite et bonne découverte !  
 
-> « DarkHub : votre portail vers des ressources fiables et neutres sur Internet. »
+> « DarkHub : votre portail vers des ressources fiables et neutres sur le darkweb. »
