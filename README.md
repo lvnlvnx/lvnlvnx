@@ -45,6 +45,7 @@ Les liens sont classés par catégories et documentés dans des fichiers Markdow
 | [Services](https://github.com/mrrhyde/services) | Centralisation des services sur le darknet. |
 | [Software](https://github.com/mrrhyde/software) | Centralisation des logiciels sur le darknet. |
 | [Website](https://github.com/mrrhyde/website) | Centralisation des sites sur le darknet. |
+| [Shops](https://github.com/mrrhyde/shops) | Centralisation des shops sur le darknet. |
 ---
 
 ## Contribuer
