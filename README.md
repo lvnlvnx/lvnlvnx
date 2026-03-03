@@ -7,7 +7,7 @@
 
 # DarkHub
 
-Bienvenue sur **DarkHub**, un projet open source dédié à la découverte de ressources, forums et services neutres sur le darknet.  
+Bienvenue sur **DarkHub**, un projet open source dédié à la découverte de ressources, forums et services sur le darknet.  
 Ici, je centralise des liens utiles et sûrs pour les passionnés de technologie, d’anonymat et d’échanges communautaires.  
 Pour discuter avec moi, rendez-vous sur [Ricochet](https://www.ricochetrefresh.net/). Vous trouverez mon ID dans le fichier [RICOCHET.MD](https://github.com/mrrhyde/ricochet).
 
@@ -22,7 +22,6 @@ DarkHub est mon espace pour organiser et partager des liens intéressants que je
 
 ## Philosophie du projet
 
-- **Neutre et sûr** : je ne partage pas les liens sensibles, illégal ou dangereux.
 - **Ouvert** : tout le monde peut consulter, proposer et contribuer.
 - **Pratique** : centraliser des liens pertinents pour ne pas les perdre et les partager facilement.
 
