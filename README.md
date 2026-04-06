@@ -6,7 +6,7 @@
     <a href="https://discord.gg/abHnrqPsrN" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1463524493698928826"></a>
 </p> 
 
-Je travaille actuellement sur **UnitCloud**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement d'unitcloud.
+Je travaille actuellement sur **UnitCloud**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement d'**UnitCloud**.
 
 ---
 
