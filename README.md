@@ -3,16 +3,16 @@
     <a href="https://github.com/lvnlvnx"><img alt="LVN" src="https://komarev.com/ghpvc/?username=lvnlvnx"></a>
     <a href="https://github.com/lvnlvnx?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/lvnlvnx?color=4C1&logo=github"></a>
     <a href="https://github.com/lvnlvnx?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/lvnlvnx"></a>
+    <img alt="Discord" src="https://img.shields.io/discord/1463524493698928826">
 </p> 
 
-Je travaille actuellement sur **UnitCloud**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques.
+Je travaille actuellement sur **UnitCloud**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement d'unitcloud.
 
 ---
 
 ## 🪙 UnitCloud
 
 **UnitCloud** est une plateforme permettant de créer une monnaie virtuelle et de la connecter à plusieurs applications via API.
-
 Chaque serveur représente **une monnaie indépendante**, accessible par plusieurs applications (jeux, bots, sites web, etc).
 
 ### 🔧 Fonctionnalités en cours
