@@ -52,6 +52,10 @@ Créer une infrastructure simple, fiable et scalable pour gérer des économies 
 
 ---
 
+# Attention
+
+Librem n'est pas une cryptomonnaie et ne possède pas de cours légal. Il s’agit d’une solution de monnaie virtuelle centralisée, conçue pour permettre à toute communauté ou projet (bot Discord, jeu vidéo, plateforme en ligne, etc.) de créer et utiliser facilement sa propre monnaie interne. Librem agit comme un intermédiaire fiable pour gérer les transactions et les soldes, sans complexité ni infrastructure décentralisée.
+
 # 📫 Me contacter
 
 GitHub : https://github.com/lvnlvnx   
