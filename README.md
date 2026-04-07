@@ -6,13 +6,13 @@
     <a href="https://discord.gg/abHnrqPsrN" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1463524493698928826"></a>
 </p> 
 
-Je travaille actuellement sur **UnitCloud**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement d'**UnitCloud**.
+Je travaille actuellement sur **Librem**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement de **Librem**.
 
 ---
 
-## 🪙 UnitCloud
+## 🪙 Librem
 
-**UnitCloud** est une plateforme permettant de créer une monnaie virtuelle et de la connecter à plusieurs applications via API.
+**Librem** est une plateforme permettant de créer une monnaie virtuelle et de la connecter à plusieurs applications via API.
 Chaque serveur représente **une monnaie indépendante**, accessible par plusieurs applications (jeux, bots, sites web, etc).
 
 ### 🔧 Fonctionnalités en cours
