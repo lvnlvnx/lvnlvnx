@@ -6,60 +6,75 @@
     <a href="https://discord.gg/abHnrqPsrN" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1463524493698928826"></a>
 </p> 
 
-Je travaille actuellement sur **Librem**, une plateforme permettant de créer et gérer des monnaies virtuelles pour des applications, jeux ou écosystèmes numériques. Je consacre tout mon temps libre (qui est aléatoire) au développement de **Librem**.
+Je travaille actuellement sur **TrafficTrade**, une alternave aux réseaux de publicité payant car traffictrade veut être gratuit et basé sur un cercle virtueux d'échange de visibilité.
 
 ---
 
-## 🪙 Librem
+# 🚀 TrafficTrade
 
-**Librem** est une plateforme permettant de créer une monnaie virtuelle et de la connecter à plusieurs applications via API.
-Chaque serveur représente **une monnaie indépendante**, accessible par plusieurs applications (jeux, bots, sites web, etc).
+TrafficTrade est une plateforme d’échange de bannières publicitaires permettant aux utilisateurs de générer du trafic ciblé grâce à un système de crédits.
 
-### 🔧 Fonctionnalités en cours
+## 📌 Concept
 
-- Création de wallets
-- Génération automatique d’adresses uniques
-- Transferts sécurisés entre wallets
-- Historique des transactions immuable
-- Gestion des apps et API keys
-- API REST pour applications externes
-- Architecture multi-applications
+Le fonctionnement est simple :
 
-### 🎯 Vision
+- Vous affichez les bannières des autres membres sur votre site
+- Vous gagnez des crédits
+- Vous utilisez ensuite ces crédits pour promouvoir votre propre site
 
-Créer une infrastructure simple, fiable et scalable pour gérer des économies virtuelles dans des applications modernes.
+Le système est basé sur un échange de visibilité entre les membres avec des catégories ciblées afin d’obtenir un trafic plus pertinent.
 
 ---
 
-# 🧰 Technologies utilisées
+# ✨ Fonctionnalités actuelles
 
-- PHP
+## 👤 Espace utilisateur
+
+- Inscription / Connexion
+- Confirmation d’email
+- Reset mot de passe
+- Dashboard utilisateur
+- Gestion des sites
+- Allocation de crédits
+- Système de bannière 728x90
+- Génération du script d’affichage
+- Statistiques impressions / clics
+
+---
+
+## 📢 Réseau publicitaire
+
+- Rotation automatique des bannières
+- Système de crédits
+- Affichage ciblé par catégorie
+- Anti spam impressions
+- Exclusion du propre site
+- Tracking impressions & clics
+- Fallback intelligent
+
+---
+
+# ⚙️ Stack technique
+
 - Laravel
 - MySQL
-- Blade
-- HTML / CSS / JavaScript
+- JavaScript
+- Bootstrap
 - API REST
 
 ---
 
-# 🎯 Objectifs actuels
+# 🎯 Objectif du projet
 
-- Construire un moteur de transactions fiable
-- Structurer une API propre et sécurisée
-- Permettre l'intégration multi-applications
-- Assurer la cohérence et la sécurité des données
-- Préparer une architecture déployable sur plusieurs serveurs
+TrafficTrade a pour objectif de proposer une alternative simple et accessible pour générer du trafic ciblé sans dépendre uniquement des plateformes publicitaires traditionnelles.
+Le projet est actuellement en phase de développement actif et de test réel.
 
 ---
-
-# Attention
-
-Librem n'est pas une cryptomonnaie et ne possède pas de cours légal. Il s’agit d’une solution de monnaie virtuelle centralisée, conçue pour permettre à toute communauté ou projet (bot Discord, jeu vidéo, plateforme en ligne, etc.) de créer et utiliser facilement sa propre monnaie interne. Librem agit comme un intermédiaire fiable pour gérer les transactions et les soldes, sans complexité ni infrastructure décentralisée.
 
 # 📫 Me contacter
 
 GitHub : https://github.com/lvnlvnx   
-X (Twitter) : https://x.com/lvnlvnx    
+Le site : https://traffictrade.fr  
 
 ---
 
